@@ -6,7 +6,7 @@
 ```bash
 git clone https://github.com/bluzukk/Youwal.git
 cd Youwal
-chmox +x youwal
+chmod +x youwal
 ```
 
 ## Usage
