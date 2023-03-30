@@ -15,3 +15,8 @@ chmox +x youwal
 
 ### Note if using [th-ch/youtube-music](th-ch/youtube-music)
 * The css needs to be injected only once! For a new theme just run `pywal` and `youwal` then restart `youtube-music`
+
+## Examples
+
+![](.screenshots/blue.png)
+![](.screenshots/green.png)
