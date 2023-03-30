@@ -1,5 +1,6 @@
 <h2 align="center">Dynamic theming of Youtube-Music using your Pywal colors</h2>
 
+![](.screenshots/blue.png)
 
 ## Installation
 ```bash
@@ -15,7 +16,3 @@ chmox +x youwal
 
 ### Note if using [th-ch/youtube-music](th-ch/youtube-music)
 * The css needs to be injected only once! For a new theme just run `pywal` and `youwal` then restart `youtube-music`
-
-## Example
-
-![](.screenshots/blue.png)
