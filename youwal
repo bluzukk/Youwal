@@ -1606,3 +1606,6 @@ div.cet-titlebar.cet-linux
 }
 
 EOM
+
+# Restart ytm
+ps -C youtube-music >/dev/null && killall youtube-music && youtube-music &
