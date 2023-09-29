@@ -8,6 +8,8 @@ git clone https://github.com/bluzukk/Youwal.git
 cd Youwal
 chmod +x youwal
 ```
+## TODO
+Needs to be update to fully support the newly added playlist style. Feel free to send a PR 
 
 ## Usage
 * Generate your colors using `pywal`
